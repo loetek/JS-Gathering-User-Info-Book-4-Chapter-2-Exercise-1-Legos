@@ -1,0 +1,110 @@
+{
+  "legos": [
+    {
+      "creatorName": "df",
+      "legoName": "dfd",
+      "legoShape": "dd",
+      "id": 1
+    },
+    {
+      "creatorName": "df",
+      "legoName": "dfd",
+      "legoShape": "dd",
+      "id": 2
+    },
+    {
+      "creatorName": "df",
+      "legoName": "dfd",
+      "legoShape": "dd",
+      "id": 3
+    },
+    {
+      "creatorName": "",
+      "legoName": "",
+      "legoShape": "",
+      "id": 4
+    },
+    {
+      "creatorName": "ddf",
+      "legoName": "dfd",
+      "legoShape": "df",
+      "id": 5
+    },
+    {
+      "creatorName": "ddf",
+      "legoName": "dfd",
+      "legoShape": "df",
+      "id": 6
+    },
+    {
+      "creatorName": "ddf",
+      "legoName": "dfd",
+      "legoShape": "df",
+      "id": 7
+    },
+    {
+      "creatorName": "ddf",
+      "legoName": "dfd",
+      "legoShape": "df",
+      "id": 8
+    },
+    {
+      "creatorName": "ddf",
+      "legoName": "dfd",
+      "legoShape": "df",
+      "id": 9
+    },
+    {
+      "creatorName": "ddf",
+      "legoName": "dfd",
+      "legoShape": "df",
+      "id": 10
+    },
+    {
+      "creatorName": "ddf",
+      "legoName": "dfd",
+      "legoShape": "df",
+      "id": 11
+    },
+    {
+      "creatorName": "ddf",
+      "legoName": "dfd",
+      "legoShape": "df",
+      "id": 12
+    }
+  ],
+  "colors": [
+    {
+      "legoColor": "Yellow",
+      "id": 1
+    },
+    {
+      "legoColor": "Blue",
+      "id": 2
+    },
+    {
+      "legoColor": "Blue",
+      "id": 3
+    },
+    {
+      "legoColor": "Blue",
+      "id": 4
+    },
+    {
+      "legoColor": "Blue",
+      "id": 5
+    },
+    {
+      "legoColor": "Blue",
+      "id": 6
+    },
+    {
+      "legoColor": "Blue",
+      "id": 7
+    },
+    {
+      "legoColor": "Blue",
+      "id": 8
+    }
+  ]
+}
