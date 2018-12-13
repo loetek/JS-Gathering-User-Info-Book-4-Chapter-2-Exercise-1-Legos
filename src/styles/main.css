@@ -1,0 +1,42 @@
+.bigBody {
+
+    font-family: 'Luckiest Guy', cursive;
+    background: linear-gradient(to right, #000000, #434343);
+    color: whitesmoke;
+    
+    }
+
+.legoContainer {
+
+    display: flex;
+    flex-direction: row;
+    
+    justify-items: flex-end, space-between;        
+    background: linear-gradient(to right, #304352, #d7d2cc);
+    
+    padding: 200px, 200px, 200px, 200px;
+    
+  
+      
+}
+
+ .btn--lego__save {
+        background-color: white; 
+        color: black; 
+        border: 2px solid #4CAF50;
+        padding: 20px;
+        margin: 25px;
+      }
+      
+.btn--lego__save:hover {
+        background-color: #4CAF50;
+        color: white;
+      }
+      
+#lego__color {
+
+    display: flex;
+    flex-direction: row;
+    justify-items: center, space-between;
+
+}
